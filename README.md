@@ -1,2 +1,2 @@
-# javascript-a-z
-JavaScript A-Z
+# JavaScript-A-Z
+
